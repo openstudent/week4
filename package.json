@@ -1,0 +1,12 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "16.0.0"
+  },
+  "license": "ISC"
+}
